@@ -1,8 +1,10 @@
+
+
 start = input('enter your age: ')
 end = input('enter your max age: ')
 years = int(end) - int(start)
 Interval = input('Input desired intervals: ')
-Count = input('Enter desired blyat, limit is 4: ')
+Count = input('Enter desired count, limit is 4: ')
 if int(Count) >=5 :
 	exit()	
 loss = 0
